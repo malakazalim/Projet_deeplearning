@@ -3,7 +3,7 @@
 
 **Encadrante :** Mme. HIDILA Zineb  
 **Filière :** Informatique  
-**Étudiant :** [VOTRE NOM Prénom]
+**Étudiant :** Malak AZALIM
 
 ---
 
